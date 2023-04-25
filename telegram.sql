@@ -54,7 +54,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `tg_id`, `plan`, `time`, `attack_limit`, `expire`, `status`) VALUES
-(1, '5326865266', 'Owner', 99999, 1000, 1767685204, 'yes'),
+(1, '5914839146', 'Owner', 99999, 1000, 1767685204, 'yes'),
 (2, '1075977470', 'PLAN5', 3000, 4, 0, 'yes'),
 (3, '5573831672', 'Owner', 99999, 1000, 1767685204, 'yes'),
 (4, '1270269201', 'PLAN5', 4300, 2, 0, 'yes'),
